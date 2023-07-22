@@ -1,0 +1,2 @@
+# ApiGateway
+ This project is an API Gateway implementation for a Java Spring Boot microservice architecture. An API Gateway is an essential component in a microservices architecture that acts as an entry point for client requests, providing centralized access to various microservices. It plays a crucial role in handling authentication, load balancing, rate limiting, caching, and request routing, ensuring smooth communication between clients and the backend microservices.
